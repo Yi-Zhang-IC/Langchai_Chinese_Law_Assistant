@@ -14,5 +14,7 @@
 
 ## 安装步骤
 1. 克隆仓库
-2. 安装dependencies **pip install -r requirements.txt**
-3. 创建环境文件.env **OPENAI_API_KEY=your_openai_api_key**
+2. 安装dependencies 
+**pip install -r requirements.txt**
+3. 创建环境文件.env 
+**OPENAI_API_KEY=your_openai_api_key**
